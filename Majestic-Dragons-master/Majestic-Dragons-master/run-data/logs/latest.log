@@ -1,0 +1,30 @@
+[12maj2024 15:45:27.189] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\magne_z4t3ur6\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.32, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, majesticdragons, --all, --output, D:\Minecraft\Modding\Projects\Majestic Dragons\src\generated\resources, --existing, D:\Minecraft\Modding\Projects\Majestic Dragons\src\main\resources]
+[12maj2024 15:45:27.196] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.10 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[12maj2024 15:45:27.358] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[12maj2024 15:45:27.450] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/magne_z4t3ur6/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[12maj2024 15:45:27.894] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\magne_z4t3ur6\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.32\9d7e04e58b558bf95759e2d94b77944a0845d1cb\javafmllanguage-1.20.1-47.2.32.jar is missing mods.toml file
+[12maj2024 15:45:27.898] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\magne_z4t3ur6\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.32\38d24291ba53d0eebaa2830618f331bc728d4b90\lowcodelanguage-1.20.1-47.2.32.jar is missing mods.toml file
+[12maj2024 15:45:27.902] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\magne_z4t3ur6\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.32\63a076b8fcbb860cfddb7cec5c1374338a5043da\mclanguage-1.20.1-47.2.32.jar is missing mods.toml file
+[12maj2024 15:45:27.907] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\magne_z4t3ur6\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.32\cb79ea145f390bce56ce90e2cc62eb6928911801\fmlcore-1.20.1-47.2.32.jar is missing mods.toml file
+[12maj2024 15:45:28.076] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[12maj2024 15:45:29.874] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[12maj2024 15:45:29.876] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\magne_z4t3ur6\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, majesticdragons, --all, --output, D:\Minecraft\Modding\Projects\Majestic Dragons\src\generated\resources, --existing, D:\Minecraft\Modding\Projects\Majestic Dragons\src\main\resources]
+[12maj2024 15:45:30.479] [main/INFO] [mixin/]: Remapping refMap geckolib.refmap.json using D:\Minecraft\Modding\Projects\Majestic Dragons\build\createSrgToMcp\output.srg
+[12maj2024 15:45:30.974] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [majesticdragons]
+[12maj2024 15:45:37.387] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.32, for MC 1.20.1 with MCP 20230612.114412
+[12maj2024 15:45:37.388] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.32 Initialized
+[12maj2024 15:45:37.477] [modloading-worker-0/WARN] [software.bernie.geckolib.GeckoLib/]: Minecraft.getInstance() was null, could not register reload listeners
+[12maj2024 15:45:38.214] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/magne_z4t3ur6/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.32_mapped_official_1.20.1/forge-1.20.1-47.2.32_mapped_official_1.20.1.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[12maj2024 15:45:38.214] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/magne_z4t3ur6/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.32_mapped_official_1.20.1/forge-1.20.1-47.2.32_mapped_official_1.20.1.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[12maj2024 15:45:38.494] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[12maj2024 15:45:38.498] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 3 ms
+[12maj2024 15:45:38.498] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[12maj2024 15:45:38.520] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 21 ms
+[12maj2024 15:45:38.520] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block Tags
+[12maj2024 15:45:38.663] [main/INFO] [net.minecraft.data.DataGenerator/]: Block Tags finished after 142 ms
+[12maj2024 15:45:38.663] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: majesticdragons
+[12maj2024 15:45:38.680] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: majesticdragons finished after 17 ms
+[12maj2024 15:45:38.681] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: majesticdragons
+[12maj2024 15:45:38.681] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: majesticdragons finished after 0 ms
+[12maj2024 15:45:38.681] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 188 ms
+[12maj2024 15:45:38.691] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 1, old count: 0, new count: 2, removed stale: 0, written: 1
